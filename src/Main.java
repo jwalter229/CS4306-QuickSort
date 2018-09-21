@@ -1,6 +1,6 @@
 import java.util.*;
 
-/*  used stackoverflow, w3schools, geeks for geeks */
+
 
 
 public class Main {
